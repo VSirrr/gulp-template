@@ -1,0 +1,14 @@
+body {
+  background: url(../img/1.jpg) no-repeat;
+  height: 2000px;
+  color: #f60;
+}
+.container {
+  width: 1000px;
+}
+.container .row p {
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #f60;
+  color: #3b1719;
+}
